@@ -1,0 +1,1321 @@
+[
+  {
+    "id": "荤菜_乡村啤酒鸭",
+    "name": "乡村啤酒鸭",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "鸭肉",
+      "啤酒",
+      "32 厘米以上的炒锅一个(锅太小难炒",
+      "青椒",
+      "红椒"
+    ]
+  },
+  {
+    "id": "荤菜_冷吃兔",
+    "name": "冷吃兔",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "兔肉",
+      "味精",
+      "蚝油",
+      "料酒",
+      "小葱/大葱/洋葱"
+    ]
+  },
+  {
+    "id": "荤菜_可乐鸡翅",
+    "name": "可乐鸡翅",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡翅中",
+      "可乐",
+      "白糖",
+      "生抽",
+      "生姜"
+    ]
+  },
+  {
+    "id": "荤菜_咕噜肉",
+    "name": "咕噜肉",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "梅头猪肉",
+      "青椒",
+      "罐头菠萝片",
+      "茄汁",
+      "白醋"
+    ]
+  },
+  {
+    "id": "荤菜_商芝肉",
+    "name": "商芝肉",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "带皮猪五花肉（去骨）",
+      "商芝（又名紫萁，属蕨类，嫩叶可食）",
+      "八角",
+      "蜂蜜",
+      "料酒"
+    ]
+  },
+  {
+    "id": "荤菜_孜然牛肉",
+    "name": "孜然牛肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "牛柳或牛肩肉",
+      "青椒",
+      "孜然（颗粒>粉）",
+      "小米椒",
+      "生抽酱油"
+    ]
+  },
+  {
+    "id": "荤菜_小炒肉",
+    "name": "小炒肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "五花肉",
+      "朝天椒",
+      "小米椒",
+      "豆豉",
+      "豆瓣酱"
+    ]
+  },
+  {
+    "id": "荤菜_小米辣炒肉",
+    "name": "小米辣炒肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "小米辣",
+      "花生油",
+      "五花肉/瘦肉",
+      "生抽",
+      "蚝油"
+    ]
+  },
+  {
+    "id": "荤菜_小酥肉",
+    "name": "小酥肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "去皮猪肉（根据喜好选择肥瘦）",
+      "植物油",
+      "老姜",
+      "小葱",
+      "料酒"
+    ]
+  },
+  {
+    "id": "荤菜_尖椒炒牛肉",
+    "name": "尖椒炒牛肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "牛肉",
+      "葱、姜、蒜",
+      "尖椒",
+      "酱油"
+    ]
+  },
+  {
+    "id": "荤菜_山西过油肉",
+    "name": "山西过油肉",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "猪里脊",
+      "蒜苔",
+      "酱油",
+      "葱姜蒜",
+      "鸡蛋"
+    ]
+  },
+  {
+    "id": "荤菜_带把肘子",
+    "name": "带把肘子",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "### 原料",
+      "带脚、爪猪前肘",
+      "红豆腐乳",
+      "甜面酱",
+      "精盐"
+    ]
+  },
+  {
+    "id": "荤菜_意式烤鸡",
+    "name": "意式烤鸡",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡腿肉",
+      "黑胡椒",
+      "橄榄油",
+      "柠檬汁",
+      "欧芹"
+    ]
+  },
+  {
+    "id": "荤菜_杀猪菜",
+    "name": "杀猪菜",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "血肠",
+      "酸菜",
+      "排骨",
+      "料酒",
+      "辣椒"
+    ]
+  },
+  {
+    "id": "荤菜_椒盐排条",
+    "name": "椒盐排条",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "大排",
+      "鸡蛋",
+      "椒盐粉",
+      "葱姜水",
+      "面粉"
+    ]
+  },
+  {
+    "id": "荤菜_水煮肉片",
+    "name": "水煮肉片",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "猪里脊肉",
+      "食用盐",
+      "胡椒粉",
+      "生抽酱油",
+      "料酒"
+    ]
+  },
+  {
+    "id": "荤菜_洋葱炒猪肉",
+    "name": "洋葱炒猪肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "洋葱",
+      "猪肉片",
+      "蕃茄酱",
+      "麻油"
+    ]
+  },
+  {
+    "id": "荤菜_澳门湿版免治牛肉饭",
+    "name": "澳门湿版免治牛肉饭",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "牛肉末（可以用稍微肥一点的猪肉末代替）",
+      "洋葱",
+      "鸡蛋",
+      "黄油（可用普通食用油代替）",
+      "小葱（可选）"
+    ]
+  },
+  {
+    "id": "荤菜_烤鸡翅",
+    "name": "烤鸡翅",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡翅中",
+      "黑胡椒粉",
+      "酱油",
+      "料酒",
+      "烤箱"
+    ]
+  },
+  {
+    "id": "荤菜_猪肉烩酸菜",
+    "name": "猪肉烩酸菜",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "猪五花肉或猪肉排骨",
+      "东北酸菜",
+      "大葱",
+      "生抽酱油",
+      "五香粉"
+    ]
+  },
+  {
+    "id": "荤菜_甜辣烤全翅",
+    "name": "甜辣烤全翅",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "空气炸锅",
+      "鸡全翅",
+      "生抽",
+      "老抽",
+      "蒜粉"
+    ]
+  },
+  {
+    "id": "荤菜_番茄红酱",
+    "name": "番茄红酱",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "碎牛肉",
+      "蒜瓣",
+      "胡萝卜",
+      "芹菜",
+      "洋葱"
+    ]
+  },
+  {
+    "id": "荤菜_白菜猪肉炖粉条",
+    "name": "白菜猪肉炖粉条",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "五花肉",
+      "白菜",
+      "土豆干粉条",
+      "十三香",
+      "鸡精"
+    ]
+  },
+  {
+    "id": "荤菜_粉蒸肉",
+    "name": "粉蒸肉",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "五花肉 500g（肥瘦相间）",
+      "蒸肉米粉 100g（推荐使用李锦记或自制）",
+      "生抽 15ml",
+      "老抽 10ml",
+      "料酒 15ml"
+    ]
+  },
+  {
+    "id": "荤菜_糖醋里脊",
+    "name": "糖醋里脊",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "里脊肉",
+      "白糖",
+      "淀粉",
+      "鸡蛋",
+      "生抽"
+    ]
+  },
+  {
+    "id": "荤菜_红烧鸡翅",
+    "name": "红烧鸡翅",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "新鲜鸡翅（推荐选择鸡翅中，肉质更嫩）",
+      "姜片（推荐使用生姜，去腥效果更佳）",
+      "葱段（推荐使用大葱白部分，香味更浓郁）",
+      "大蒜",
+      "香叶"
+    ]
+  },
+  {
+    "id": "荤菜_肉饼炖蛋",
+    "name": "肉饼炖蛋",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "猪肉末",
+      "鸡蛋",
+      "料酒",
+      "生抽",
+      "白胡椒粉"
+    ]
+  },
+  {
+    "id": "荤菜_腐乳肉",
+    "name": "腐乳肉",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "带皮五花肉",
+      "红腐乳（推荐咸亨牌玫瑰腐乳）",
+      "冰糖",
+      "老抽",
+      "料酒"
+    ]
+  },
+  {
+    "id": "荤菜_萝卜炖羊排",
+    "name": "萝卜炖羊排",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "羊排",
+      "白萝卜",
+      "大葱",
+      "花椒",
+      "白芷（可选）"
+    ]
+  },
+  {
+    "id": "荤菜_蒜苔炒肉末",
+    "name": "蒜苔炒肉末",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "五花肉薄片",
+      "蒜苔",
+      "食用盐",
+      "生抽",
+      "食用油"
+    ]
+  },
+  {
+    "id": "荤菜_虎皮肘子",
+    "name": "虎皮肘子",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "猪前肘",
+      "食用植物油",
+      "冰糖",
+      "老抽",
+      "生抽"
+    ]
+  },
+  {
+    "id": "荤菜_蚂蚁上树",
+    "name": "蚂蚁上树",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "红薯粉丝",
+      "猪肉末（或牛肉末）",
+      "郫县豆瓣酱",
+      "生抽",
+      "老抽"
+    ]
+  },
+  {
+    "id": "荤菜_豉汁排骨",
+    "name": "豉汁排骨",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "肋排",
+      "阳江豆豉",
+      "蒜蓉",
+      "姜末",
+      "生抽"
+    ]
+  },
+  {
+    "id": "荤菜_辣椒炒肉",
+    "name": "辣椒炒肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "青椒（吃辣的话推荐用杭椒，螺丝椒，不吃辣的用尖椒，甜椒）",
+      "猪瘦肉",
+      "生抽",
+      "蚝油",
+      "大蒜"
+    ]
+  },
+  {
+    "id": "荤菜_香干肉丝",
+    "name": "香干肉丝",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "猪里脊（可以买超市切好且称重好的肉丝）",
+      "香干",
+      "生抽",
+      "淀粉",
+      "大蒜"
+    ]
+  },
+  {
+    "id": "荤菜_鱼香肉丝",
+    "name": "鱼香肉丝",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "里脊肉 200g",
+      "胡萝卜 100g",
+      "青椒 100g",
+      "木耳（干） 5g",
+      "生抽 10ml"
+    ]
+  },
+  {
+    "id": "荤菜_麻辣香锅",
+    "name": "麻辣香锅",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "青菜（油菜、油麦菜、菠菜）",
+      "无骨肉（猪肉、牛肉、鸡肉、鱼丸、火腿肠）",
+      "干豆腐",
+      "北京麻辣方便面",
+      "干辣椒"
+    ]
+  },
+  {
+    "id": "荤菜_黄油鸡",
+    "name": "黄油鸡",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡腿肉（去骨）",
+      "酸奶",
+      "黄油",
+      "淡奶油(Heavy Cream)",
+      "番茄"
+    ]
+  },
+  {
+    "id": "荤菜_黄焖鸡",
+    "name": "黄焖鸡",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡腿",
+      "香菇（干香菇最佳）",
+      "青椒",
+      "生姜片",
+      "干辣椒"
+    ]
+  },
+  {
+    "id": "荤菜_黄瓜炒肉",
+    "name": "黄瓜炒肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "黄瓜",
+      "猪瘦肉",
+      "食用油",
+      "生抽",
+      "小米辣"
+    ]
+  },
+  {
+    "id": "荤菜_农家一碗香",
+    "name": "农家一碗香",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "+ 猪肉（推荐五花肉）",
+      "+ 青椒",
+      "+ 蒜片",
+      "+ 豆瓣酱",
+      "+ 酱油"
+    ]
+  },
+  {
+    "id": "荤菜_冬瓜酿肉",
+    "name": "冬瓜酿肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/冬瓜酿肉/摆盘.jpg",
+    "ingredients_list": [
+      "冬瓜",
+      "猪肉末",
+      "鸡蛋",
+      "葱姜末",
+      "胡椒粉"
+    ]
+  },
+  {
+    "id": "荤菜_凉拌鸡丝",
+    "name": "凉拌鸡丝",
+    "difficulty": 3,
+    "main_image": "images/荤菜/凉拌鸡丝/凉拌鸡丝.jpg",
+    "ingredients_list": [
+      "鸡胸肉（常温冷冻均可）",
+      "麻油（花椒油）",
+      "生抽",
+      "香醋",
+      "白糖"
+    ]
+  },
+  {
+    "id": "荤菜_卤菜",
+    "name": "卤菜",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "卤料包（超市即可购买）",
+      "黄豆酱",
+      "豆瓣酱",
+      "蚝油",
+      "南腐乳"
+    ]
+  },
+  {
+    "id": "荤菜_口水鸡",
+    "name": "口水鸡",
+    "difficulty": 3,
+    "main_image": "images/荤菜/口水鸡/口水鸡.jpg",
+    "ingredients_list": [
+      "半只鸡",
+      "辣椒粉",
+      "花椒",
+      "花生",
+      "葱姜蒜"
+    ]
+  },
+  {
+    "id": "荤菜_台式卤肉饭",
+    "name": "台式卤肉饭",
+    "difficulty": 5,
+    "main_image": "images/荤菜/台式卤肉饭/1.jpg",
+    "ingredients_list": [
+      "红葱头（火葱）",
+      "带皮五花肉 （可用猪绞肉代替）",
+      "鸡蛋（可选）",
+      "食用油",
+      "生抽酱油"
+    ]
+  },
+  {
+    "id": "荤菜_咖喱肥牛",
+    "name": "咖喱肥牛",
+    "difficulty": 4,
+    "main_image": "images/荤菜/咖喱肥牛/咖喱肥牛.jpg",
+    "ingredients_list": [
+      "香叶",
+      "纯牛奶（推荐卫岗鲜奶）",
+      "洋葱",
+      "胡萝卜",
+      "土豆"
+    ]
+  },
+  {
+    "id": "荤菜_啤酒鸭",
+    "name": "啤酒鸭",
+    "difficulty": 4,
+    "main_image": "images/荤菜/啤酒鸭/啤酒鸭.jpg",
+    "ingredients_list": [
+      "鸭肉",
+      "啤酒",
+      "生抽酱油",
+      "老抽酱油",
+      "冰糖"
+    ]
+  },
+  {
+    "id": "荤菜_回锅肉",
+    "name": "回锅肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/回锅肉/1.jpeg",
+    "ingredients_list": [
+      "五花肉",
+      "小葱",
+      "生姜",
+      "青红椒",
+      "蒜苗"
+    ]
+  },
+  {
+    "id": "荤菜_土豆炖排骨",
+    "name": "土豆炖排骨",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "肋排",
+      "土豆",
+      "小葱",
+      "料酒",
+      "白糖"
+    ]
+  },
+  {
+    "id": "荤菜_奶酪培根通心粉",
+    "name": "奶酪培根通心粉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "通心粉",
+      "奶酪",
+      "肉类",
+      "洋葱",
+      "黄油"
+    ]
+  },
+  {
+    "id": "荤菜_姜炒鸡",
+    "name": "姜炒鸡",
+    "difficulty": 3,
+    "main_image": "images/荤菜/姜炒鸡/姜炒鸡.jpg",
+    "ingredients_list": [
+      "生姜",
+      "啤酒",
+      "生抽",
+      "老抽",
+      "小米椒"
+    ]
+  },
+  {
+    "id": "荤菜_姜葱捞鸡",
+    "name": "姜葱捞鸡",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡腿肉",
+      "盐焗鸡粉",
+      "葱，姜"
+    ]
+  },
+  {
+    "id": "荤菜_宫保鸡丁",
+    "name": "宫保鸡丁",
+    "difficulty": 4,
+    "main_image": "images/荤菜/宫保鸡丁/宫保鸡丁.jpg",
+    "ingredients_list": [
+      "手枪腿（或者鸡胸脯肉）",
+      "大葱",
+      "干辣椒（或者二荆条）",
+      "熟花生",
+      "生抽酱油"
+    ]
+  },
+  {
+    "id": "荤菜_小炒鸡肝",
+    "name": "小炒鸡肝",
+    "difficulty": 3,
+    "main_image": "images/荤菜/小炒鸡肝/成品.jpg",
+    "ingredients_list": [
+      "生鸡肝",
+      "蒜苗（蒜苗指的是：大蒜幼苗发育到一定时期的青苗。有些地方叫做青蒜，特别说明一下。）",
+      "大葱、姜、料酒",
+      "食用盐、鸡精（味精）、五香粉（十三香）、胡椒粉",
+      "烧烤料或孜然粉（可选）"
+    ]
+  },
+  {
+    "id": "荤菜_小炒黄牛肉",
+    "name": "小炒黄牛肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/小炒黄牛肉/小炒黄牛肉.jpg",
+    "ingredients_list": [
+      "牛里脊",
+      "芹菜",
+      "小米椒",
+      "野山椒",
+      "香菜"
+    ]
+  },
+  {
+    "id": "荤菜_尖叫牛蛙",
+    "name": "尖叫牛蛙",
+    "difficulty": 4,
+    "main_image": "images/荤菜/尖叫牛蛙/尖叫牛蛙.jpg",
+    "ingredients_list": [
+      "牛蛙肉",
+      "泡姜",
+      "泡椒",
+      "野山椒（也可以用干红辣椒替代）",
+      "青红辣椒"
+    ]
+  },
+  {
+    "id": "荤菜_巴基斯坦牛肉咖喱",
+    "name": "巴基斯坦牛肉咖喱",
+    "difficulty": 5,
+    "main_image": "images/荤菜/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.png",
+    "ingredients_list": [
+      "普通的炒锅",
+      "电饭煲/电炖锅",
+      "Masala 粉（品牌可选 Shan）",
+      "牛肉",
+      "番茄"
+    ]
+  },
+  {
+    "id": "荤菜_干煸仔鸡",
+    "name": "干煸仔鸡",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡腿",
+      "土豆",
+      "青椒",
+      "大蒜",
+      "胡椒粉"
+    ]
+  },
+  {
+    "id": "荤菜_广式萝卜牛腩",
+    "name": "广式萝卜牛腩",
+    "difficulty": 4,
+    "main_image": "images/荤菜/广式萝卜牛腩/广式萝卜牛腩.webp",
+    "ingredients_list": [
+      "牛腩",
+      "白萝卜",
+      "姜片",
+      "蒜瓣",
+      "八角"
+    ]
+  },
+  {
+    "id": "荤菜_徽派红烧肉",
+    "name": "徽派红烧肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/徽派红烧肉/1.jpeg",
+    "ingredients_list": [
+      "五花肉",
+      "白砂糖",
+      "食用油",
+      "生抽",
+      "蚝油"
+    ]
+  },
+  {
+    "id": "荤菜_新疆大盘鸡",
+    "name": "新疆大盘鸡",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "花椒，香叶，香果，干线椒，大蒜，大葱",
+      "油，盐，生抽，蚝油，料酒（可拿啤酒），白糖",
+      "鸡肉（鸡腿肉最好），土豆，菜椒和甜椒（可以不用，加上配色好看）"
+    ]
+  },
+  {
+    "id": "荤菜_无骨鸡爪",
+    "name": "无骨鸡爪",
+    "difficulty": 5,
+    "main_image": "images/荤菜/无骨鸡爪/无骨鸡爪.jpg",
+    "ingredients_list": [
+      "鸡爪",
+      "料酒",
+      "大葱",
+      "大蒜",
+      "小米辣"
+    ]
+  },
+  {
+    "id": "荤菜_枝竹羊腩煲",
+    "name": "枝竹羊腩煲",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "羊腩",
+      "腐竹",
+      "柱侯酱",
+      "腐乳",
+      "南乳"
+    ]
+  },
+  {
+    "id": "荤菜_柱候牛腩",
+    "name": "柱候牛腩",
+    "difficulty": 4,
+    "main_image": "images/荤菜/柱候牛腩/柱候牛腩.jpeg",
+    "ingredients_list": [
+      "炖煮锅，高压锅（可选，但极度推荐！）",
+      "牛腩（首选坑腩，带筋的部位）",
+      "![牛腩部位](./牛腩部位.jpeg)",
+      "柱候酱（核心酱），郫县豆瓣酱，南腐乳，叉烧酱（可选），蚝油， 老抽，生抽",
+      "花雕酒，白酒"
+    ]
+  },
+  {
+    "id": "荤菜_梅菜扣肉",
+    "name": "梅菜扣肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/梅菜扣肉/1.jpeg",
+    "ingredients_list": [
+      "五花肉",
+      "梅菜",
+      "五香粉",
+      "食用油",
+      "白砂糖"
+    ]
+  },
+  {
+    "id": "荤菜_水煮牛肉",
+    "name": "水煮牛肉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "牛肉",
+      "豆芽",
+      "鸡蛋",
+      "香菜",
+      "豆瓣酱"
+    ]
+  },
+  {
+    "id": "荤菜_清蒸鳜鱼",
+    "name": "清蒸鳜鱼",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "鳜鱼",
+      "大葱",
+      "小葱",
+      "生抽",
+      "红辣椒"
+    ]
+  },
+  {
+    "id": "荤菜_湖南家常红烧肉",
+    "name": "湖南家常红烧肉",
+    "difficulty": 3,
+    "main_image": "images/荤菜/湖南家常红烧肉/湖南家常红烧肉.jpeg",
+    "ingredients_list": [
+      "带皮五花肉",
+      "干小米椒🌶（根据个人情况而定）",
+      "生抽",
+      "老抽",
+      "香叶"
+    ]
+  },
+  {
+    "id": "荤菜_湘祁米夫鸭",
+    "name": "湘祁米夫鸭",
+    "difficulty": 4,
+    "main_image": "images/荤菜/湘祁米夫鸭/湘祁米夫鸭.jpg",
+    "ingredients_list": [
+      "鸭子（必须新鲜现杀的）",
+      "糯米粉",
+      "粘米粉",
+      "蒸肉粉",
+      "细辣椒粉（吃辣则加）"
+    ]
+  },
+  {
+    "id": "荤菜_煎烤羊排",
+    "name": "煎烤羊排",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "羊排",
+      "桂皮",
+      "花椒",
+      "八角",
+      "白芷"
+    ]
+  },
+  {
+    "id": "荤菜_牛排",
+    "name": "牛排",
+    "difficulty": 4,
+    "main_image": "images/荤菜/牛排/牛排.jpg",
+    "ingredients_list": [
+      "平底锅（有条件的推荐铸铁平底锅）",
+      "锡箔纸（可选）",
+      "厨房纸（可选）",
+      "汤匙",
+      "牛排，参见[如何选择不同种类的牛排](https://zhuanlan.zhihu.com/p/72352426)"
+    ]
+  },
+  {
+    "id": "荤菜_猪皮冻",
+    "name": "猪皮冻",
+    "difficulty": 5,
+    "main_image": "images/荤菜/猪皮冻/猪皮冻.jpg",
+    "ingredients_list": [
+      "<!-- 可以推荐购买哪个品牌的来方便决策。 -->",
+      "猪皮",
+      "大料、花椒、白芷、桂皮、丁香、香叶、小茴香"
+    ]
+  },
+  {
+    "id": "荤菜_瘦肉土豆片",
+    "name": "瘦肉土豆片",
+    "difficulty": 3,
+    "main_image": "images/荤菜/瘦肉土豆片/瘦肉土豆片.jpg",
+    "ingredients_list": [
+      "纯瘦肉",
+      "土豆",
+      "蒜苗",
+      "生粉（玉米淀粉或其他淀粉）",
+      "生抽"
+    ]
+  },
+  {
+    "id": "荤菜_糖醋排骨",
+    "name": "糖醋排骨",
+    "difficulty": 4,
+    "main_image": "images/荤菜/糖醋排骨/1.jpeg",
+    "ingredients_list": [
+      "排骨",
+      "白砂糖",
+      "食用油",
+      "生抽",
+      "蚝油"
+    ]
+  },
+  {
+    "id": "荤菜_红烧猪蹄",
+    "name": "红烧猪蹄",
+    "difficulty": 4,
+    "main_image": "images/荤菜/红烧猪蹄/红烧猪蹄.jpg",
+    "ingredients_list": [
+      "猪蹄",
+      "香叶",
+      "老抽",
+      "桂皮",
+      "冰糖"
+    ]
+  },
+  {
+    "id": "荤菜_南派红烧肉",
+    "name": "南派红烧肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/南派红烧肉/000.jpg",
+    "ingredients_list": [
+      "注：如果有可能，请尽量把刀磨的锋利一些。",
+      "工具：`锅`（砂锅为宜，铝锅其次，高压锅也可以，最好不要铁锅、铜锅）",
+      "主料：`五花肉`",
+      "辅料：`油`、`冰糖`、`老抽`、`料酒`、`香叶`、`八角`、`生姜`、`盐`、`葱`、`开水`、`凉水`、`蒜`、`花椒`"
+    ]
+  },
+  {
+    "id": "荤菜_简易红烧肉",
+    "name": "简易红烧肉",
+    "difficulty": 3,
+    "main_image": "images/荤菜/简易红烧肉/000.jpg",
+    "ingredients_list": [
+      "注：如果有可能，请尽量把刀磨的锋利一些。",
+      "主料：`大肉`、`鸡蛋`（可选）、`豆皮`（可选）",
+      "辅料：`生姜`、`冰糖`、`生抽`、`老抽`、`料酒`、`香叶`、`八角`、`盐`、`水`、`葱`（记得要开水）"
+    ]
+  },
+  {
+    "id": "荤菜_羊排焖面",
+    "name": "羊排焖面",
+    "difficulty": 4,
+    "main_image": "images/荤菜/羊排焖面/羊排焖面.jpg",
+    "ingredients_list": [
+      "带皮羊排肉",
+      "青椒",
+      "甜椒",
+      "青椒",
+      "大葱"
+    ]
+  },
+  {
+    "id": "荤菜_老妈蹄花",
+    "name": "老妈蹄花",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "猪蹄（尽量选择猪前蹄：肉多筋多骨头少）",
+      "料酒",
+      "生抽",
+      "白芷",
+      "当归（可选）"
+    ]
+  },
+  {
+    "id": "荤菜_老式锅包肉",
+    "name": "老式锅包肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/老式锅包肉/老式锅包肉.jpg",
+    "ingredients_list": [
+      "猪通脊肉",
+      "大葱",
+      "胡萝卜（可无）",
+      "香菜",
+      "白醋（建议使用 9 度的醋，这样才会有较为突出的老式锅包肉特有的醋香）"
+    ]
+  },
+  {
+    "id": "荤菜_芥末罗氏虾",
+    "name": "芥末罗氏虾",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "罗氏虾",
+      "青芥末",
+      "生抽",
+      "生粉",
+      "胡椒粉"
+    ]
+  },
+  {
+    "id": "荤菜_茭白炒肉",
+    "name": "茭白炒肉",
+    "difficulty": 3,
+    "main_image": "images/荤菜/茭白炒肉/1.jpeg",
+    "ingredients_list": [
+      "茭白",
+      "瘦肉",
+      "淀粉",
+      "食用油",
+      "鸡精"
+    ]
+  },
+  {
+    "id": "荤菜_荔枝肉",
+    "name": "荔枝肉",
+    "difficulty": 4,
+    "main_image": "images/荤菜/荔枝肉/1.jpeg",
+    "ingredients_list": [
+      "瘦肉",
+      "凤梨",
+      "鸡蛋",
+      "食用油",
+      "白砂糖"
+    ]
+  },
+  {
+    "id": "荤菜_荷兰豆炒腊肠",
+    "name": "荷兰豆炒腊肠",
+    "difficulty": 2,
+    "main_image": "images/荤菜/荷兰豆炒腊肠/1.png",
+    "ingredients_list": [
+      "荷兰豆",
+      "腊肠",
+      "生抽",
+      "食用油"
+    ]
+  },
+  {
+    "id": "荤菜_血浆鸭",
+    "name": "血浆鸭",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "鲜仔鸭肉",
+      "鲜鸭血（宰杀鸭子时加醋接鸭血，用筷子顺时针搅拌防凝固）",
+      "蒜仔",
+      "辣椒",
+      "酒（或者白酒、啤酒、米酒皆可）"
+    ]
+  },
+  {
+    "id": "荤菜_西红柿土豆炖牛肉",
+    "name": "西红柿土豆炖牛肉",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "牛肉",
+      "小料",
+      "料酒",
+      "花椒",
+      "八角"
+    ]
+  },
+  {
+    "id": "荤菜_西红柿牛腩",
+    "name": "西红柿牛腩",
+    "difficulty": 5,
+    "main_image": "",
+    "ingredients_list": [
+      "西红柿",
+      "牛腩",
+      "燃气灶（西红柿去皮用）",
+      "高压锅/砂锅/普通铝锅（铁锅）",
+      "2cm 两段葱段、两片姜片，葱花、姜各 10g"
+    ]
+  },
+  {
+    "id": "荤菜_豆豉鲮鱼油麦菜",
+    "name": "豆豉鲮鱼油麦菜",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "油麦菜",
+      "甘竹牌鲮鱼罐头",
+      "生抽",
+      "白糖",
+      "食用油"
+    ]
+  },
+  {
+    "id": "荤菜_豉汁蒸白鱔",
+    "name": "豉汁蒸白鱔",
+    "difficulty": 3,
+    "main_image": "images/荤菜/豉汁蒸白鱔/豉汁蒸白鱔.jpeg",
+    "ingredients_list": [
+      "白鱔（白鳝）",
+      "豆豉",
+      "蒜头",
+      "生抽",
+      "老抽"
+    ]
+  },
+  {
+    "id": "荤菜_贵州辣子鸡",
+    "name": "贵州辣子鸡",
+    "difficulty": 4,
+    "main_image": "images/荤菜/贵州辣子鸡/贵州辣子鸡.jpg",
+    "ingredients_list": [
+      "农村玉米鸡",
+      "土豆",
+      "大蒜",
+      "香叶",
+      "老抽"
+    ]
+  },
+  {
+    "id": "荤菜_酱排骨",
+    "name": "酱排骨",
+    "difficulty": 4,
+    "main_image": "images/荤菜/酱排骨/1.jpeg",
+    "ingredients_list": [
+      "排骨",
+      "五香粉",
+      "料酒",
+      "食用油",
+      "白砂糖"
+    ]
+  },
+  {
+    "id": "荤菜_酱牛肉",
+    "name": "酱牛肉",
+    "difficulty": 5,
+    "main_image": "images/荤菜/酱牛肉/酱牛肉.jpg",
+    "ingredients_list": [
+      "牛腱子肉",
+      "香叶",
+      "老抽",
+      "桂皮",
+      "冰糖"
+    ]
+  },
+  {
+    "id": "荤菜_醉排骨",
+    "name": "醉排骨",
+    "difficulty": 4,
+    "main_image": "images/荤菜/醉排骨/1.jpeg",
+    "ingredients_list": [
+      "排骨",
+      "白砂糖",
+      "食用油",
+      "鱼露",
+      "芝麻"
+    ]
+  },
+  {
+    "id": "荤菜_青椒土豆炒肉",
+    "name": "青椒土豆炒肉",
+    "difficulty": 3,
+    "main_image": "images/荤菜/青椒土豆炒肉/青椒土豆炒肉.jpg",
+    "ingredients_list": [
+      "青椒",
+      "土豆",
+      "猪肉（五花肉）",
+      "酱油",
+      "土豆淀粉"
+    ]
+  },
+  {
+    "id": "荤菜_香干芹菜炒肉",
+    "name": "香干芹菜炒肉",
+    "difficulty": 3,
+    "main_image": "images/荤菜/香干芹菜炒肉/香干芹菜炒肉.jpg",
+    "ingredients_list": [
+      "豆干",
+      "香芹/芹菜",
+      "猪肉",
+      "大蒜",
+      "辣椒：青椒或者红椒都可以"
+    ]
+  },
+  {
+    "id": "荤菜_香煎五花肉",
+    "name": "香煎五花肉",
+    "difficulty": 3,
+    "main_image": "images/荤菜/香煎五花肉/香煎五花肉.jpg",
+    "ingredients_list": [
+      "五花肉条（推荐长宽高为 20cm\\*6cm\\*5cm）",
+      "生菜",
+      "酱油，盐，味精，料酒，姜蒜，油，豆瓣酱"
+    ]
+  },
+  {
+    "id": "荤菜_香菇滑鸡",
+    "name": "香菇滑鸡",
+    "difficulty": 3,
+    "main_image": "images/荤菜/香菇滑鸡/香菇滑鸡.jpg",
+    "ingredients_list": [
+      "大鸡腿",
+      "干香菇"
+    ]
+  },
+  {
+    "id": "荤菜_香辣鸡爪煲",
+    "name": "香辣鸡爪煲",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "鸡爪",
+      "料酒",
+      "香叶",
+      "八角",
+      "生抽"
+    ]
+  },
+  {
+    "id": "荤菜_鱼香茄子",
+    "name": "鱼香茄子",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "茄子",
+      "肉末",
+      "味精",
+      "生抽",
+      "老抽"
+    ]
+  },
+  {
+    "id": "荤菜_麻婆豆腐",
+    "name": "麻婆豆腐",
+    "difficulty": 3,
+    "main_image": "images/荤菜/麻婆豆腐/1.jpeg",
+    "ingredients_list": [
+      "内脂豆腐（推荐清美）",
+      "水果刀",
+      "咸鸭蛋（推荐留夫鸭的，这个是灵魂）",
+      "五花肉（超市的肉糜也行）",
+      "大蒜"
+    ]
+  },
+  {
+    "id": "荤菜_黑椒牛柳",
+    "name": "黑椒牛柳",
+    "difficulty": 4,
+    "main_image": "images/荤菜/黑椒牛柳/黑椒牛柳.jpg",
+    "ingredients_list": [
+      "牛肉（可以用牛里脊肉或者牛排肉）",
+      "洋葱",
+      "菜椒（红/黄椒）",
+      "淀粉",
+      "黑胡椒（粉）"
+    ]
+  },
+  {
+    "id": "荤菜_黔式腊肠娃娃菜",
+    "name": "黔式腊肠娃娃菜",
+    "difficulty": 1,
+    "main_image": "images/荤菜/黔式腊肠娃娃菜/黔式腊肠娃娃菜.jpg",
+    "ingredients_list": [
+      "黔式腊肠",
+      "娃娃菜"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android
+.local.properties
+.idea/
+*.iml
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 下载脚本（保留）
+# download_*.py
+
+# 测试图片
+test_imgs/
+
+# 图片资源（太大，可选忽略）
+# app/src/main/assets/images/

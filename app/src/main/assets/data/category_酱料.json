@@ -1,0 +1,113 @@
+[
+  {
+    "id": "酱料_油",
+    "name": "油",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "面粉"
+    ]
+  },
+  {
+    "id": "酱料_炸串酱",
+    "name": "炸串酱",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "干辣椒面（粗细都准备）",
+      "孜然粉",
+      "胡椒粉",
+      "五香粉",
+      "花椒粉"
+    ]
+  },
+  {
+    "id": "酱料_简易版炒糖",
+    "name": "简易版炒糖",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "糖（任选其一）：",
+      "冰糖：炒出来的`糖色`色泽最为鲜艳，红亮，必须水油炒，不加水融化会很慢",
+      "白砂糖：必须水油炒，不加水融化会很慢",
+      "绵白糖：可以不加水",
+      "炒糖色过程火不要太大！！！电磁炉温度不够，火候过了发苦，不够发甜"
+    ]
+  },
+  {
+    "id": "酱料_糖醋",
+    "name": "糖醋",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "清水",
+      "白糖",
+      "白醋/米醋",
+      "料酒",
+      "生抽"
+    ]
+  },
+  {
+    "id": "酱料_葱",
+    "name": "葱",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "葱（大葱小葱都可以）",
+      "洋葱",
+      "料酒",
+      "香菜（可选）",
+      "开洋（可选）"
+    ]
+  },
+  {
+    "id": "酱料_蒜香酱",
+    "name": "蒜香酱",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "蒜头",
+      "白芝麻",
+      "花生油",
+      "酱油",
+      "蘸料碟"
+    ]
+  },
+  {
+    "id": "酱料_油泼辣",
+    "name": "油泼辣",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "蒜头",
+      "干辣椒面",
+      "熟白芝麻",
+      "小米椒",
+      "花生油（可用菜籽油替换）"
+    ]
+  },
+  {
+    "id": "酱料_草莓",
+    "name": "草莓",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "草莓",
+      "白砂糖",
+      "保鲜膜"
+    ]
+  },
+  {
+    "id": "酱料_蔗糖糖",
+    "name": "蔗糖糖",
+    "difficulty": 1,
+    "main_image": "",
+    "ingredients_list": [
+      "原料",
+      "白砂糖",
+      "工具",
+      "可密封容器（建议使用高硼硅试剂瓶，便宜）",
+      "![bottle](./bottle.jpg)"
+    ]
+  }
+]

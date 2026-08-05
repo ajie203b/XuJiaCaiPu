@@ -1,0 +1,294 @@
+[
+  {
+    "id": "饮料_B52轰炸",
+    "name": "B52轰炸",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "甘露咖啡酒",
+      "爱尔兰百利甜酒",
+      "蓝天原味伏特加",
+      "吧勺",
+      "利口酒杯"
+    ]
+  },
+  {
+    "id": "饮料_Mojito莫吉",
+    "name": "Mojito莫吉",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "打碎的冰块",
+      "冰镇苏打水",
+      "压汁器",
+      "海波杯",
+      "研杵"
+    ]
+  },
+  {
+    "id": "饮料_冬瓜",
+    "name": "冬瓜",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "冬瓜",
+      "冰糖",
+      "保鲜膜",
+      "过滤网",
+      "大锅"
+    ]
+  },
+  {
+    "id": "饮料_印度奶",
+    "name": "印度奶",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "红茶（CTC 红茶最佳，或阿萨姆红茶）",
+      "全脂牛奶",
+      "生姜",
+      "小豆蔻（绿色）",
+      "肉桂棒"
+    ]
+  },
+  {
+    "id": "饮料_可乐",
+    "name": "可乐",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "原料",
+      "波旁威士忌",
+      "可口可乐",
+      "冰块",
+      "柠檬（可选，提升口感用）"
+    ]
+  },
+  {
+    "id": "饮料_奶",
+    "name": "奶",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "袋泡红茶（推荐立顿黄牌精选红茶）",
+      "全脂奶粉或淡奶",
+      "杯子，例如带刻度的杯子，陶瓷杯或保温杯"
+    ]
+  },
+  {
+    "id": "饮料_杨枝甘",
+    "name": "杨枝甘",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "杯子",
+      "水果刀",
+      "牛奶",
+      "冰块",
+      "调理机/果汁机"
+    ]
+  },
+  {
+    "id": "饮料_牛油果拉",
+    "name": "牛油果拉",
+    "difficulty": 1,
+    "main_image": "",
+    "ingredients_list": [
+      "原味酸奶 (Plain yogurt)",
+      "熟透的牛油果",
+      "蜂蜜",
+      "冷牛奶",
+      "小豆蔻粉（可选）"
+    ]
+  },
+  {
+    "id": "饮料_酸梅汤（半成品加工",
+    "name": "酸梅汤（半成品加工",
+    "difficulty": 1,
+    "main_image": "",
+    "ingredients_list": [
+      "酸梅晶固体饮料",
+      "方糖（可选）",
+      "北京二锅头酒（可选）"
+    ]
+  },
+  {
+    "id": "饮料_长岛冰",
+    "name": "长岛冰",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "金酒",
+      "龙舌兰酒",
+      "伏特加",
+      "白朗姆酒",
+      "橙味甜酒"
+    ]
+  },
+  {
+    "id": "饮料_冰",
+    "name": "冰",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "冰粉籽 200g",
+      "过滤豆浆渣的纱布一块",
+      "凉白开 2000g",
+      "薄荷汁 10ml / 薄荷粉 10g",
+      "一次性透明塑料杯（可选）"
+    ]
+  },
+  {
+    "id": "饮料_奇异果菠菜特",
+    "name": "奇异果菠菜特",
+    "difficulty": 1,
+    "main_image": "",
+    "ingredients_list": [
+      "原料:",
+      "奇异果",
+      "苹果",
+      "菠菜叶（ 2-5 片）",
+      "白砂糖"
+    ]
+  },
+  {
+    "id": "饮料_柠檬",
+    "name": "柠檬",
+    "difficulty": 1,
+    "main_image": "",
+    "ingredients_list": [
+      "原料",
+      "柠檬",
+      "果蜜",
+      "冰（可选）",
+      "工具"
+    ]
+  },
+  {
+    "id": "饮料_泰国手标红",
+    "name": "泰国手标红",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "茶粉",
+      "炼乳",
+      "白糖",
+      "牛奶",
+      "克称"
+    ]
+  },
+  {
+    "id": "饮料_海边落",
+    "name": "海边落",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "原料",
+      "红石榴糖浆",
+      "NFC 橙汁",
+      "苏打水",
+      "白朗姆"
+    ]
+  },
+  {
+    "id": "饮料_百香果橙子特",
+    "name": "百香果橙子特",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "原料:",
+      "百香果",
+      "橙子",
+      "茉莉绿茶茶叶/苏打气泡水二选一",
+      "白砂糖"
+    ]
+  },
+  {
+    "id": "饮料_砂糖椰子冰",
+    "name": "砂糖椰子冰",
+    "difficulty": 1,
+    "main_image": "",
+    "ingredients_list": [
+      "瓶装椰汁（瓶口较大为佳）",
+      "咖啡调糖（黄色粗粒）"
+    ]
+  },
+  {
+    "id": "饮料_耙耙柑",
+    "name": "耙耙柑",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "原料:",
+      "耙耙柑（替换物请看附加内容）",
+      "茉莉绿茶",
+      "冰块",
+      "[蔗糖糖浆](../../condiment/蔗糖糖浆/蔗糖糖浆.md)（可选）"
+    ]
+  },
+  {
+    "id": "饮料_菠萝咖啡特",
+    "name": "菠萝咖啡特",
+    "difficulty": 3,
+    "main_image": "",
+    "ingredients_list": [
+      "咖啡液（推荐浓缩或者冷萃）",
+      "菠萝汁（鲜榨或者 nfc）",
+      "冰块",
+      "苏打水",
+      "奶油"
+    ]
+  },
+  {
+    "id": "饮料_酒酿醪",
+    "name": "酒酿醪",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "糯米 800g（推荐使用圆糯米）",
+      "安琪甜酒曲一包 (8g)（虽然按比例为每 1000g 糯米用 3g，但多放酒曲能提高成功概率）",
+      "清水 720g + 600g（720 克用于蒸饭，后 500g 用于发酵）",
+      "蒸锅（电饭煲即可）",
+      "温度计（可选但推荐）"
+    ]
+  },
+  {
+    "id": "饮料_酸梅",
+    "name": "酸梅",
+    "difficulty": 4,
+    "main_image": "",
+    "ingredients_list": [
+      "乌枣",
+      "乌梅",
+      "山楂片（生）",
+      "黄冰糖",
+      "甘草"
+    ]
+  },
+  {
+    "id": "饮料_金汤",
+    "name": "金汤",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "原料",
+      "金酒",
+      "汤力水气泡水",
+      "柠檬",
+      "冰块"
+    ]
+  },
+  {
+    "id": "饮料_金菲",
+    "name": "金菲",
+    "difficulty": 2,
+    "main_image": "",
+    "ingredients_list": [
+      "原料",
+      "金酒",
+      "苏打气泡水",
+      "柠檬",
+      "[蔗糖糖浆](../../condiment/蔗糖糖浆/蔗糖糖浆.md)"
+    ]
+  }
+]
