@@ -87,7 +87,7 @@ fun MainScreen(context: Context) {
                 TipsScreen(repository = repository, navController = navController)
             }
             composable(BottomNavItem.Recommend.route) {
-                RecommendScreen()
+                RecommendScreen(repository = repository, navController = navController)
             }
             composable(BottomNavItem.Favorites.route) {
                 FavoritesScreen(
