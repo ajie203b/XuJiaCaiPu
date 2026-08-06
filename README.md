@@ -6,6 +6,10 @@
 
 > 首页浏览 | 分类筛选 | 菜品详情 | 收藏功能 | 为你推荐
 
+<img width="185" height="406" alt="xujiacaipu首页" src="https://github.com/user-attachments/assets/b2676ea7-b07f-4e64-bf60-d9a064dfc9fd" />
+<img width="189" height="405" alt="xujiacaipu吃什么" src="https://github.com/user-attachments/assets/2eb57235-b9aa-4006-ab75-207cf5ab7543" />
+<img width="186" height="404" alt="xujiacaipu收藏" src="https://github.com/user-attachments/assets/a6e7f812-95d7-4915-a6d1-b96af4f116d4" />
+
 ## ✨ 核心功能
 
 ### 🏠 首页浏览
