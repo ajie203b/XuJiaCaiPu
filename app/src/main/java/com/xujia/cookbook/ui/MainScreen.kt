@@ -4,6 +4,7 @@ import android.content.Context
 import android.net.Uri
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Lightbulb
 import androidx.compose.material.icons.filled.Recommend
@@ -28,6 +29,7 @@ sealed class BottomNavItem(
     object Home : BottomNavItem("home", Icons.Filled.Home, "首页")
     object Tips : BottomNavItem("tips", Icons.Filled.Lightbulb, "小技巧")
     object Recommend : BottomNavItem("recommend", Icons.Filled.Recommend, "为你推荐")
+    object Favorites : BottomNavItem("favorites", Icons.Filled.Favorite, "收藏")
 }
 
 @Composable
@@ -37,7 +39,7 @@ fun MainScreen(context: Context) {
     val favoriteDao = remember { AppDatabase.getDatabase(context).favoriteDao() }
     var savedCategory by remember { mutableStateOf("") }
 
-    val navItems = listOf(BottomNavItem.Home, BottomNavItem.Tips, BottomNavItem.Recommend)
+    val navItems = listOf(BottomNavItem.Home, BottomNavItem.Tips, BottomNavItem.Recommend, BottomNavItem.Favorites)
 
     Scaffold(
         bottomBar = {
@@ -86,6 +88,12 @@ fun MainScreen(context: Context) {
             }
             composable(BottomNavItem.Recommend.route) {
                 RecommendScreen()
+            }
+            composable(BottomNavItem.Favorites.route) {
+                FavoritesScreen(
+                    favoriteDao = favoriteDao,
+                    navController = navController
+                )
             }
             composable("dish_detail/{dishId}") { backStackEntry ->
                 val dishId = Uri.decode(backStackEntry.arguments?.getString("dishId") ?: "")
