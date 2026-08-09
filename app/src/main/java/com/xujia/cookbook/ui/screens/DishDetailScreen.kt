@@ -1,5 +1,6 @@
 package com.xujia.cookbook.ui.screens
 
+import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
@@ -24,6 +25,7 @@ import kotlinx.coroutines.launch
 @Composable
 fun DishDetailScreen(
     dishId: String,
+    @Suppress("UNUSED_PARAMETER") category: String,
     repository: DishRepository,
     favoriteDao: FavoriteDao,
     navController: NavController
@@ -39,17 +41,17 @@ fun DishDetailScreen(
         return
     }
 
-    val dishCategory = remember { dish.category }
+    // 拦截系统返回键，返回到对应的分类详情页
+    BackHandler {
+        navController.popBackStack()
+    }
 
     Scaffold(
         topBar = {
             TopAppBar(
                 title = { Text(dish.name) },
                 navigationIcon = {
-                    IconButton(onClick = {
-                        navController.previousBackStackEntry?.savedStateHandle?.set("returnCategory", dishCategory)
-                        navController.popBackStack()
-                    }) {
+                    IconButton(onClick = { navController.popBackStack() }) {
                         Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "返回")
                     }
                 },

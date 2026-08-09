@@ -37,7 +37,6 @@ fun MainScreen(context: Context) {
     val navController = rememberNavController()
     val repository = remember { DishRepository(context) }
     val favoriteDao = remember { AppDatabase.getDatabase(context).favoriteDao() }
-    var savedCategory by remember { mutableStateOf("") }
 
     val navItems = listOf(BottomNavItem.Home, BottomNavItem.Tips, BottomNavItem.Recommend, BottomNavItem.Favorites)
 
@@ -70,17 +69,11 @@ fun MainScreen(context: Context) {
             startDestination = BottomNavItem.Home.route,
             modifier = Modifier.padding(innerPadding)
         ) {
-            composable(BottomNavItem.Home.route) { backStackEntry ->
-                val returnCategory = backStackEntry.savedStateHandle.get<String>("returnCategory") ?: ""
-                if (returnCategory.isNotEmpty()) {
-                    savedCategory = returnCategory
-                    backStackEntry.savedStateHandle.remove<String>("returnCategory")
-                }
+            composable(BottomNavItem.Home.route) {
                 HomeScreen(
                     repository = repository,
-                    favoriteDao = favoriteDao,
-                    navController = navController,
-                    initialCategory = savedCategory
+                    favoriteDao = null,
+                    navController = navController
                 )
             }
             composable(BottomNavItem.Tips.route) {
@@ -95,10 +88,20 @@ fun MainScreen(context: Context) {
                     navController = navController
                 )
             }
-            composable("dish_detail/{dishId}") { backStackEntry ->
+            composable("category_detail/{category}") { backStackEntry ->
+                val category = Uri.decode(backStackEntry.arguments?.getString("category") ?: "")
+                CategoryDetailScreen(
+                    category = category,
+                    repository = repository,
+                    navController = navController
+                )
+            }
+            composable("dish_detail/{dishId}/{category}") { backStackEntry ->
                 val dishId = Uri.decode(backStackEntry.arguments?.getString("dishId") ?: "")
+                val category = Uri.decode(backStackEntry.arguments?.getString("category") ?: "")
                 DishDetailScreen(
                     dishId = dishId,
+                    category = category,
                     repository = repository,
                     favoriteDao = favoriteDao,
                     navController = navController

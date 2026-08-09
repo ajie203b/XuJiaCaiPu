@@ -17,6 +17,7 @@ import androidx.compose.material.icons.filled.KeyboardArrowUp
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
@@ -33,25 +34,19 @@ import com.xujia.cookbook.ui.components.DishCard
 import com.xujia.cookbook.ui.theme.*
 import kotlinx.coroutines.launch
 
-@Suppress("UNUSED_PARAMETER")
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HomeScreen(
     repository: DishRepository,
-    favoriteDao: FavoriteDao,
-    navController: NavController,
-    initialCategory: String = ""
+    favoriteDao: FavoriteDao?,
+    navController: NavController
 ) {
     val allDishes = remember { repository.getAllDishes() }
     val categories = remember { repository.getCategories() }
-    var selectedCategory by remember {
-        mutableStateOf(initialCategory.ifEmpty { categories.firstOrNull() ?: "" })
-    }
 
-    LaunchedEffect(initialCategory) {
-        if (initialCategory.isNotEmpty() && initialCategory != selectedCategory) {
-            selectedCategory = initialCategory
-        }
+    // 使用 rememberSaveable 保存分类选择，防止返回时状态丢失
+    var selectedCategory by rememberSaveable(categories) {
+        mutableStateOf(categories.firstOrNull() ?: "")
     }
 
     var searchQuery by remember { mutableStateOf("") }
@@ -141,8 +136,7 @@ fun HomeScreen(
             // 菜品卡片网格
             items(filteredDishes, key = { it.id }) { dish ->
                 DishCard(dish = dish, onClick = {
-                        navController.currentBackStackEntry?.arguments?.putString("fromCategory", selectedCategory)
-                        navController.navigate("dish_detail/" + Uri.encode(dish.id))
+                        navController.navigate("dish_detail/" + Uri.encode(dish.id) + "/" + Uri.encode(selectedCategory))
                     })
             }
         }

@@ -111,7 +111,7 @@ fun FavoritesScreen(favoriteDao: FavoriteDao, navController: NavController) {
             items(filteredFavorites, key = { it.dishId }) { favorite ->
                 FavoriteItem(
                     favorite = favorite,
-                    onClick = { navController.navigate("dish_detail/" + Uri.encode(favorite.dishId)) }
+                    onClick = { navController.navigate("dish_detail/" + Uri.encode(favorite.dishId) + "/" + Uri.encode(favorite.category)) }
                 )
             }
         }

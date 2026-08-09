@@ -154,7 +154,7 @@ fun RecommendScreen(repository: DishRepository, navController: NavController) {
                         dish = currentDish!!,
                         onClick = {
                             if (!isPlaying) {
-                                navController.navigate("dish_detail/" + Uri.encode(currentDish!!.id))
+                                navController.navigate("dish_detail/" + Uri.encode(currentDish!!.id) + "/" + Uri.encode(currentDish!!.category))
                             }
                         }
                     )

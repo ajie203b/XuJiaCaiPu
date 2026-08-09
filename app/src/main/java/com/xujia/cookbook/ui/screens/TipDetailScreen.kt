@@ -1,5 +1,6 @@
 package com.xujia.cookbook.ui.screens
 
+import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
@@ -16,6 +17,11 @@ import dev.jeziellago.compose.markdowntext.MarkdownText
 @Composable
 fun TipDetailScreen(tipId: String, repository: DishRepository, navController: NavController) {
     val tip = remember { repository.getAllTips().find { it.id == tipId } }
+
+    // 拦截系统返回键，通过 NavController 正常出栈返回上一级
+    BackHandler {
+        navController.popBackStack()
+    }
 
     Scaffold(
         topBar = {
