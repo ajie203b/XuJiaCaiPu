@@ -2,9 +2,8 @@
 
 一个基于 Kotlin + Jetpack Compose 开发的精美菜谱应用，帮助你查找、学习各种美食的制作方法，解决"今天吃什么"的世纪难题。
 
-## 📱 应用截图
+## 📱 应用截图（文字版）
 
-> 首页浏览 | 分类筛选 | 菜品详情 | 收藏功能 | 为你推荐
 
 <img width="185" height="406" alt="xujiacaipu首页" src="https://github.com/user-attachments/assets/b2676ea7-b07f-4e64-bf60-d9a064dfc9fd" />
 <img width="189" height="405" alt="xujiacaipu吃什么" src="https://github.com/user-attachments/assets/2eb57235-b9aa-4006-ab75-207cf5ab7543" />
