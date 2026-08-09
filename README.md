@@ -164,6 +164,7 @@ app/src/main/
 ## 📄 数据来源
 
 菜品数据基于 [HowToCook](https://github.com/Anduin2017/HowToCook) 开源项目。
+图文版图片来源 [HowToCook图文在线预览](https://king-jingxiang.github.io/HowToCook/)开源项目。
 
 ## 📜 许可证
 
