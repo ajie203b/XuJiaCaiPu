@@ -2,6 +2,17 @@
 
 一个基于 Kotlin + Jetpack Compose 开发的精美菜谱应用，帮助你查找、学习各种美食的制作方法，解决"今天吃什么"的世纪难题。
 
+## 📄 数据来源
+
+菜品数据基于 [HowToCook](https://github.com/Anduin2017/HowToCook) 开源项目。
+
+图文版图片来源 [HowToCook图文在线预览](https://king-jingxiang.github.io/HowToCook/)开源项目。
+
+## 📜 许可证
+
+MIT License
+
+
 ## 📱 应用截图（文字版）
 
 
@@ -160,13 +171,3 @@ app/src/main/
 
 3. 同步 Gradle 并运行（支持模拟器或真机）
 
-
-## 📄 数据来源
-
-菜品数据基于 [HowToCook](https://github.com/Anduin2017/HowToCook) 开源项目。
-
-图文版图片来源 [HowToCook图文在线预览](https://king-jingxiang.github.io/HowToCook/)开源项目。
-
-## 📜 许可证
-
-MIT License
