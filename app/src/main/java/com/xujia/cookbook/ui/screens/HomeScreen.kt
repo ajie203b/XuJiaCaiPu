@@ -13,8 +13,10 @@ import androidx.compose.foundation.lazy.grid.rememberLazyGridState
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Image
 import androidx.compose.material.icons.filled.KeyboardArrowUp
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.TextFields
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -30,6 +32,7 @@ import androidx.navigation.NavController
 import com.xujia.cookbook.data.Dish
 import com.xujia.cookbook.data.DishRepository
 import com.xujia.cookbook.data.FavoriteDao
+import com.xujia.cookbook.ui.DisplayModeState
 import com.xujia.cookbook.ui.components.DishCard
 import com.xujia.cookbook.ui.theme.*
 import kotlinx.coroutines.launch
@@ -74,9 +77,9 @@ fun HomeScreen(
             horizontalArrangement = Arrangement.spacedBy(8.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp)
         ) {
-            // 标题
+            // 标题 + 图文切换按钮
             item(span = { GridItemSpan(2) }) {
-                Box(
+                Row(
                     modifier = Modifier
                         .fillMaxWidth()
                         .background(
@@ -84,8 +87,9 @@ fun HomeScreen(
                                 colors = listOf(Primary.copy(alpha = 0.1f), Color.Transparent)
                             )
                         )
-                        .padding(vertical = 24.dp),
-                    contentAlignment = Alignment.Center
+                        .padding(vertical = 24.dp, horizontal = 16.dp),
+                    horizontalArrangement = Arrangement.Center,
+                    verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
                         text = "徐家菜谱",
@@ -94,6 +98,17 @@ fun HomeScreen(
                         fontStyle = FontStyle.Italic,
                         color = Primary
                     )
+                    Spacer(modifier = Modifier.width(20.dp))
+                    IconButton(
+                        onClick = { DisplayModeState.isImageMode = !DisplayModeState.isImageMode }
+                    ) {
+                        Icon(
+                            imageVector = if (DisplayModeState.isImageMode) Icons.Filled.Image else Icons.Filled.TextFields,
+                            contentDescription = if (DisplayModeState.isImageMode) "当前为图片模式" else "当前为文字模式",
+                            tint = Primary,
+                            modifier = Modifier.size(28.dp)
+                        )
+                    }
                 }
             }
 

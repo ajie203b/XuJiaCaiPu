@@ -19,6 +19,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.xujia.cookbook.data.AppDatabase
 import com.xujia.cookbook.data.DishRepository
+import com.xujia.cookbook.ui.DisplayModeState
 import com.xujia.cookbook.ui.screens.*
 
 sealed class BottomNavItem(
@@ -104,12 +105,18 @@ fun MainScreen(context: Context) {
                     category = category,
                     repository = repository,
                     favoriteDao = favoriteDao,
-                    navController = navController
+                    navController = navController,
+                    isImageMode = DisplayModeState.isImageMode
                 )
             }
             composable("tip_detail/{tipId}") { backStackEntry ->
                 val tipId = Uri.decode(backStackEntry.arguments?.getString("tipId") ?: "")
-                TipDetailScreen(tipId = tipId, repository = repository, navController = navController)
+                TipDetailScreen(
+                    tipId = tipId,
+                    repository = repository,
+                    navController = navController,
+                    isImageMode = DisplayModeState.isImageMode
+                )
             }
         }
     }

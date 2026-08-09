@@ -21,3 +21,5 @@ parse_data.py
 test_imgs/
 images/
 images_v2/
+# 不排除应用资源图片
+!app/src/main/assets/images/
